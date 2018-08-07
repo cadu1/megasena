@@ -1,0 +1,40 @@
+.bola {
+    margin: 0 8px 8px 0;
+    letter-spacing: 2px;
+    padding: 0 0 0 2px;
+    width: 44px;
+    height: 44px;
+    font-size: 22px;
+    line-height: 44px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: arial,sans-serif-light,sans-serif;
+    font-weight: 300;
+    color: rgba(0,0,0,.87);
+    color: #fff;
+    background-color: #0b8043;
+    cursor:pointer;
+}
+.select {
+    background-color: #ffa500;
+}
+
+.center {
+    text-align: center;
+}
+
+.oculto {
+	display: none;
+}
+
+.mt-10 {
+	margin-top: 10px
+}
+
+.num-gan {
+	font-size: 37px;
+}
